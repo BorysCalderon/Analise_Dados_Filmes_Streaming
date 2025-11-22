@@ -14,7 +14,7 @@ Este projeto visa aplicar técnicas de Análise de Dados para identificar padrõ
 - `notebooks/`: Arquivos Python Notebooks (.ipynb) com todo o código de limpeza, processamento e análise.
 
 ## 🔎 Status da Análise
-* [Aguardando Início / Em Andamento / Concluído]
+* [Concluído]
 
 ---
 Feito por Borys Ever Tito Calderon | Estudante de Sistemas de Informação - 5º Semestre
